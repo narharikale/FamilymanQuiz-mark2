@@ -5,5 +5,5 @@
   * javascript.
 
 # How it works 
-   first it takes your name as input. Then it shows asks you question one by one and finally shows your score
+   first it takes your name as input. Then it asks you question one by one and finally shows your score
    
